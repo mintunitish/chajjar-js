@@ -13,4 +13,4 @@ $ npm install chajjar-js
 ```js
 const chajjar = require("chajjar-js");
 
-execute();
+chajjar();
