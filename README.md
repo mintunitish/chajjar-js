@@ -11,6 +11,6 @@ $ npm install chajjar-js
 ## Usage
 
 ```js
-const tiny = require("chajjar-js");
+const chajjar = require("chajjar-js");
 
 execute();

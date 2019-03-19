@@ -14,5 +14,8 @@
   ],
   "author": "Nitish Kumar",
   "license": "MIT",
-  "git": "https://github.com/mintunitish/chajjar-js.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintunitish/chajjar-js.git"
+  }
 }
