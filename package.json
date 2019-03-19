@@ -1,6 +1,6 @@
 {
   "name": "chajjar-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The ultimate npm package that runs only on systems approved by Chajjar Enterprises!",
   "main": "index.js",
   "scripts": {
