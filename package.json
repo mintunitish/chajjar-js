@@ -13,5 +13,6 @@
     "package"
   ],
   "author": "Nitish Kumar",
-  "license": "MIT"
+  "license": "MIT",
+  "git": "https://github.com/mintunitish/chajjar-js.git"
 }
