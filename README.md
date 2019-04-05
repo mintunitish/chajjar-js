@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/dt/chajjar-js.svg?style=for-the-badge)
+
 # chajjar-js
 
 Only the worthy may run this package!
